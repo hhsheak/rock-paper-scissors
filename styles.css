@@ -1,0 +1,25 @@
+#page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#results {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
+#reset{
+    margin-top: 16px;
+}
